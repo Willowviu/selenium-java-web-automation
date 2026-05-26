@@ -1,2 +1,25 @@
-/bin/
-/target/
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java compiled files
+*.class
+bin/
+
+# TestNG reports
+test-output/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
